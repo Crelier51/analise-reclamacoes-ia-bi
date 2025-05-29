@@ -1,0 +1,417 @@
+canal_de_origem,sexo,faixa_etaria,ano_abertura,mes_abertura,data_abertura,segmento_de_mercado,area,assunto,grupo_problema,problema,como_comprou_contratou,analise_sentimento,resumo
+plataforma web,m,entre 31 a 40 anos,2025,2,2025-02-14,operadoras de planos de saÃºde e administradoras de benefÃ­cios,saÃºde,"plano de saÃºde (convÃªnio, autogestÃ£o, seguro saÃºde )",vÃ­cio de qualidade,negativa de cobertura total ou parcial / demora injustificada,nÃ£o comprei / contratei,"O sentimento do texto é negativo, pois parece se referir a situações de desconfiança ou insatisfação com uma empresa ou serviço que não cumpre com as expectativas dos clientes. A palavra ""negativa"" e o uso da palavra ""demora injustificada"" sugerem uma falta de cumprimento das promessas feitas, o que pode gerar frustração e desconfiança.
+
+Resumindo, o texto parece se referir a situações em que os clientes não recebem a cobertura que esperavam (total ou parcial) ou quando é demorado mais do que justo obter uma resposta ou resolver um problema. Isso pode ser causado por uma falta de comunicação eficaz, rotina burocrática excessiva ou falha na resolução de problemas.","O sentimento do texto é negativo, pois parece se referir a situações de desconfiança ou insatisfação com uma empresa ou serviço que não cumpre com as expectativas dos clientes. A palavra ""negativa"" e o uso da palavra ""demora injustificada"" sugerem uma falta de cumprimento das promessas feitas, o que pode gerar frustração e desconfiança.
+
+Resumindo, o texto parece se referir a situações em que os clientes não recebem a cobertura que esperavam (total ou parcial) ou quando é demorado mais do que justo obter uma resposta ou resolver um problema. Isso pode ser causado por uma falta de comunicação eficaz, rotina burocrática excessiva ou falha na resolução de problemas."
+plataforma web,f,entre 21 a 30 anos,2025,2,2025-02-14,transporte aÃ©reo,serviÃ§os financeiros,seguro viagem,cobranÃ§a / contestaÃ§Ã£o,dificuldade / atraso na devoluÃ§Ã£o de valores pagos / reembolso / retenÃ§Ã£o de valores,internet,"O sentimento expresso no texto é negativo, pois se refere a problemas relacionados à devolução de valores pagos, como difículde, atraso, retenção e reembolso. Isso sugere que há um problema ou desafio em algum momento do processo de pagamento ou devolução.
+
+Resumindo, o texto pode ser resumido da seguinte forma:
+
+""Problemas com a devolução de valores pagos, incluindo difículde, atraso, retenção e reembolso.""","O sentimento expresso no texto é negativo, pois se refere a problemas relacionados à devolução de valores pagos, como difículde, atraso, retenção e reembolso. Isso sugere que há um problema ou desafio em algum momento do processo de pagamento ou devolução.
+
+Resumindo, o texto pode ser resumido da seguinte forma:
+
+""Problemas com a devolução de valores pagos, incluindo difículde, atraso, retenção e reembolso."""
+plataforma web,f,entre 61 a 70 anos,2025,2,2025-02-14,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a indevida / abusiva para alterar ou cancelar o contrato,nÃ£o comprei / contratei,"O sentimento do texto é negativo, indicando que há uma preocupação com cobranças indevidas ou abusivas relacionadas ao contrato.
+
+Resumindo o texto em uma frase, poderíamos dizer: ""Há uma questão de cobrança indevida ou abusiva relacionada ao contrato"".","O sentimento do texto é negativo, indicando que há uma preocupação com cobranças indevidas ou abusivas relacionadas ao contrato.
+
+Resumindo o texto em uma frase, poderíamos dizer: ""Há uma questão de cobrança indevida ou abusiva relacionada ao contrato""."
+plataforma web,m,entre 41 a 50 anos,2025,2,2025-02-14,"operadoras de telecomunicaÃ§Ãµes (telefonia, internet, tv por assinatura)",produtos de telefonia e informÃ¡tica,aparelho de telefone fixo / interfone,cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,nÃ£o comprei / contratei,"O sentimento do texto é de negatividade e frustração, pois parece tratar-se de uma situação em que alguém está sendo cobrado por algo que não foi solicitado ou contratado. A palavra ""não"" é repetida várias vezes, o que destaca a sensação de injustiça ou erro.
+
+Resumindo, o texto pode ser resumido como: ""Cobrança por serviço/produto não solicitado ou contratado"".","O sentimento do texto é de negatividade e frustração, pois parece tratar-se de uma situação em que alguém está sendo cobrado por algo que não foi solicitado ou contratado. A palavra ""não"" é repetida várias vezes, o que destaca a sensação de injustiça ou erro.
+
+Resumindo, o texto pode ser resumido como: ""Cobrança por serviço/produto não solicitado ou contratado""."
+plataforma web,f,mais de 70 anos,2025,2,2025-02-14,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a indevida / abusiva para alterar ou cancelar o contrato,loja fÃ­sica,"O sentimento do texto é negativo, pois se refere à cobrança indevida ou abusiva em um contrato.
+
+Resumindo, o texto pode estar relacionado a uma situação em que alguém está sendo cobrado por uma quantia indevida ou excessiva para alterar ou cancelar um acordo comercial ou convênio. Isso pode ser considerado um abuso de poder pelo provedor do serviço ou contrato, criando um clima de tensão e desconfiança entre as partes envolvidas.","O sentimento do texto é negativo, pois se refere à cobrança indevida ou abusiva em um contrato.
+
+Resumindo, o texto pode estar relacionado a uma situação em que alguém está sendo cobrado por uma quantia indevida ou excessiva para alterar ou cancelar um acordo comercial ou convênio. Isso pode ser considerado um abuso de poder pelo provedor do serviço ou contrato, criando um clima de tensão e desconfiança entre as partes envolvidas."
+plataforma web,m,entre 41 a 50 anos,2025,2,2025-02-14,"operadoras de telecomunicaÃ§Ãµes (telefonia, internet, tv por assinatura)",telecomunicaÃ§Ãµes,telefonia fixa,cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a apÃ³s cancelamento do serviÃ§o,telefone,"Parece que o texto está falando sobre uma situação em que alguém teve seu serviço cancelado, mas agora está sendo cobrado para pagar alguma taxa ou valor relacionado ao cancelamento.
+
+O sentimento associado a este tipo de situação geralmente é negativo, pois as pessoas podem se sentir frustradas, surpresas ou até mesmo enganadas quando são cobradas após o cancelamento do serviço. A sensação de injustiça e a percepção de que a empresa está aproveitando-se delas podem ser fortes nesse caso.
+
+Resumindo, o texto sugere uma situação em que alguém foi cobrado depois de ter seu serviço cancelado, o que pode ser considerado uma prática insatisfatória para a pessoa afetada.","Parece que o texto está falando sobre uma situação em que alguém teve seu serviço cancelado, mas agora está sendo cobrado para pagar alguma taxa ou valor relacionado ao cancelamento.
+
+O sentimento associado a este tipo de situação geralmente é negativo, pois as pessoas podem se sentir frustradas, surpresas ou até mesmo enganadas quando são cobradas após o cancelamento do serviço. A sensação de injustiça e a percepção de que a empresa está aproveitando-se delas podem ser fortes nesse caso.
+
+Resumindo, o texto sugere uma situação em que alguém foi cobrado depois de ter seu serviço cancelado, o que pode ser considerado uma prática insatisfatória para a pessoa afetada."
+plataforma web,m,entre 51 a 60 anos,2025,2,2025-02-14,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,cartÃ£o de crÃ©dito / cartÃ£o de dÃ©bito / cartÃ£o de loja,cobranÃ§a / contestaÃ§Ã£o,"cÃ¡lculo de juros, saldo devedor (contestaÃ§Ã£o, solicitaÃ§Ã£o de histÃ³rico, dÃºvidas)",internet,"O sentimento do texto é neutro, pois não há expressões emocionais fortes ou opiniões negativas.
+
+Resumindo o texto em poucas palavras:
+
+O texto aborda tópicos relacionados a processos financeiros, incluindo cálculo de juros, solicitação de histórico e dúvidas sobre débitos.","O sentimento do texto é neutro, pois não há expressões emocionais fortes ou opiniões negativas.
+
+Resumindo o texto em poucas palavras:
+
+O texto aborda tópicos relacionados a processos financeiros, incluindo cálculo de juros, solicitação de histórico e dúvidas sobre débitos."
+plataforma web,m,entre 41 a 50 anos,2025,2,2025-02-15,provedores de conteÃºdo e outros serviÃ§os na internet,demais serviÃ§os,"serviÃ§os na internet (provedor, hospedagem, aplicativos, streaming, jogos etc)",atendimento / sac,dificuldade de contato / demora no atendimento,internet,"O sentimento associado ao texto ""dificuldade de contato / demora no atendimento"" é negativo.
+
+A dificuldade de contato ou a demora no atendimento pode causar frustração, descontentamento e perda de confiança em uma empresa ou serviço. Isso pode afetar positivamente a percepção do consumidor sobre a qualidade do serviço prestado.
+
+Resumo:
+
+O texto indica que há um problema com o contato e o atendimento, o que pode gerar frustração e descontentamento em relação ao serviço ou produto.","O sentimento associado ao texto ""dificuldade de contato / demora no atendimento"" é negativo.
+
+A dificuldade de contato ou a demora no atendimento pode causar frustração, descontentamento e perda de confiança em uma empresa ou serviço. Isso pode afetar positivamente a percepção do consumidor sobre a qualidade do serviço prestado.
+
+Resumo:
+
+O texto indica que há um problema com o contato e o atendimento, o que pode gerar frustração e descontentamento em relação ao serviço ou produto."
+plataforma web,m,atÃ© 20 anos,2025,2,2025-02-15,provedores de conteÃºdo e outros serviÃ§os na internet,demais serviÃ§os,"serviÃ§os na internet (provedor, hospedagem, aplicativos, streaming, jogos etc)",cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a indevida / abusiva para alterar ou cancelar o contrato,internet,"O sentimento do texto é negativo, expressando desconforto e irritação em relação a uma situação de cobrança indevida ou abusiva relacionada a um contrato. A palavra ""abusiva"" destaca a percepção de que a cobrança está sendo feita de maneira excessiva ou sem respeito pelas regras estabelecidas no contrato.
+
+Resumo: O texto se refere a uma situação em que alguém está sendo cobrado indevidamente ou de forma abusiva por alterar ou cancelar um contrato.","O sentimento do texto é negativo, expressando desconforto e irritação em relação a uma situação de cobrança indevida ou abusiva relacionada a um contrato. A palavra ""abusiva"" destaca a percepção de que a cobrança está sendo feita de maneira excessiva ou sem respeito pelas regras estabelecidas no contrato.
+
+Resumo: O texto se refere a uma situação em que alguém está sendo cobrado indevidamente ou de forma abusiva por alterar ou cancelar um contrato."
+plataforma web,f,mais de 70 anos,2025,2,2025-02-15,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,"cÃ¡lculo de juros, saldo devedor (contestaÃ§Ã£o, solicitaÃ§Ã£o de histÃ³rico, dÃºvidas)",loja fÃ­sica,"O sentimento do texto é neutro e objetivo. O texto parece ser uma lista de serviços relacionados a ""cálculo de juros"" e ""saldo devedor"", indicando atividades financeiras e administrativas.
+
+Resumo:
+
+O texto descreve serviços financeiros, incluindo:
+- Cálculo de juros
+- Saldo devedor (contestação, solicitação de histórico e dúvidas)
+
+O tom é informativo e objetivo, sem expressar emoções ou opiniões.","O sentimento do texto é neutro e objetivo. O texto parece ser uma lista de serviços relacionados a ""cálculo de juros"" e ""saldo devedor"", indicando atividades financeiras e administrativas.
+
+Resumo:
+
+O texto descreve serviços financeiros, incluindo:
+- Cálculo de juros
+- Saldo devedor (contestação, solicitação de histórico e dúvidas)
+
+O tom é informativo e objetivo, sem expressar emoções ou opiniões."
+plataforma web,m,entre 31 a 40 anos,2025,2,2025-02-15,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,cartÃ£o de crÃ©dito / cartÃ£o de dÃ©bito / cartÃ£o de loja,cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a indevida / abusiva para alterar ou cancelar o contrato,internet,"O sentimento expresso no texto é negativo, indicando que há uma situação de cobrança indevida ou abusiva relacionada a alterações ou cancelamento de um contrato.
+
+Resumindo, o texto sugere que alguém está sendo cobrado por uma quantia indevida ou excessiva para realizar uma mudança ou cancelar um acordo comercial. Isso pode ser considerado como uma prática desleal ou abusiva pelo consumidor ou partes envolvidas no contrato.","O sentimento expresso no texto é negativo, indicando que há uma situação de cobrança indevida ou abusiva relacionada a alterações ou cancelamento de um contrato.
+
+Resumindo, o texto sugere que alguém está sendo cobrado por uma quantia indevida ou excessiva para realizar uma mudança ou cancelar um acordo comercial. Isso pode ser considerado como uma prática desleal ou abusiva pelo consumidor ou partes envolvidas no contrato."
+plataforma web,f,entre 61 a 70 anos,2025,2,2025-02-15,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,nÃ£o comprei / contratei,"O sentimento do texto é negativo, pois se refere à cobrança de uma quantia por um serviço ou produto que não foi contratado, não reconhecido ou não solicitado. Isso sugere uma situação de fraude ou erro administrativo.
+
+Resumo:
+
+O texto denuncia a cobrança de dinheiro por um serviço ou produto que não foi autorizado, não foi reconhecido como parte de um contrato ou solicitação e talvez mesmo seja ilegal.","O sentimento do texto é negativo, pois se refere à cobrança de uma quantia por um serviço ou produto que não foi contratado, não reconhecido ou não solicitado. Isso sugere uma situação de fraude ou erro administrativo.
+
+Resumo:
+
+O texto denuncia a cobrança de dinheiro por um serviço ou produto que não foi autorizado, não foi reconhecido como parte de um contrato ou solicitação e talvez mesmo seja ilegal."
+plataforma web,m,entre 21 a 30 anos,2025,2,2025-02-15,"operadoras de telecomunicaÃ§Ãµes (telefonia, internet, tv por assinatura)",produtos de telefonia e informÃ¡tica,aparelho de telefone fixo / interfone,cobranÃ§a / contestaÃ§Ã£o,"cobranÃ§a submetendo a ofensa, constrangimento ou ameaÃ§a",internet,"O sentimento do texto é negativo, pois aborda a cobrança de uma forma que pode ser considerada hostil, forçadora ou intimidante. A palavra ""ofensa"" sugere uma ação negativa e perigosa, enquanto ""constrangimento"" e ""ameaça"" evocam sentimentos de medo e ansiedade.
+
+Resumindo o texto, podemos dizer que a cobrança deve ser feita da forma mais respeitosa e menos perturbadora possível, evitando qualquer linguagem ou comportamento que possa ser considerado ofensivo, constrictor ou ameaçador.","O sentimento do texto é negativo, pois aborda a cobrança de uma forma que pode ser considerada hostil, forçadora ou intimidante. A palavra ""ofensa"" sugere uma ação negativa e perigosa, enquanto ""constrangimento"" e ""ameaça"" evocam sentimentos de medo e ansiedade.
+
+Resumindo o texto, podemos dizer que a cobrança deve ser feita da forma mais respeitosa e menos perturbadora possível, evitando qualquer linguagem ou comportamento que possa ser considerado ofensivo, constrictor ou ameaçador."
+plataforma web,f,entre 31 a 40 anos,2025,2,2025-02-15,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,telefone,"O sentimento do texto é negativo e desagradável.
+
+Resumindo, o texto parece estar relacionado a uma situação em que alguém está sendo cobrado por um serviço ou produto que não foi contratado, não reconhecido ou não solicitado. Isso sugere uma situação de fraude ou erro administrativo, onde a pessoa está sendo prejudicada financeiramente.","O sentimento do texto é negativo e desagradável.
+
+Resumindo, o texto parece estar relacionado a uma situação em que alguém está sendo cobrado por um serviço ou produto que não foi contratado, não reconhecido ou não solicitado. Isso sugere uma situação de fraude ou erro administrativo, onde a pessoa está sendo prejudicada financeiramente."
+plataforma web,m,mais de 70 anos,2025,2,2025-02-15,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a indevida / abusiva para alterar ou cancelar o contrato,loja fÃ­sica,"O sentimento do texto é negativo, pois aborda um assunto que pode ser considerado injusto e desleal.
+
+Resumo: O texto fala sobre cobranças indevidas ou abusivas relacionadas a alterações ou cancelamento de contratos. Isso pode ser uma questão delicada e problemática para as partes envolvidas, pois pode levar a situações de injustiça e desconfiança.","O sentimento do texto é negativo, pois aborda um assunto que pode ser considerado injusto e desleal.
+
+Resumo: O texto fala sobre cobranças indevidas ou abusivas relacionadas a alterações ou cancelamento de contratos. Isso pode ser uma questão delicada e problemática para as partes envolvidas, pois pode levar a situações de injustiça e desconfiança."
+plataforma web,f,entre 51 a 60 anos,2025,2,2025-02-15,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,cartÃ£o de crÃ©dito / cartÃ£o de dÃ©bito / cartÃ£o de loja,vÃ­cio de qualidade,bloqueio / suspensÃ£o indevida do serviÃ§o,internet,"O termo ""bloqueio/suspensão indevida do serviço"" sugere um problema relacionado à prestação de um serviço, onde há uma interrupção ou adição de custos não autorizados.
+
+Sentimento: O sentimento associado a este termo é provavelmente negativo, pois envolve uma situação de perda ou insatisfação do cliente em relação ao serviço fornecido. Pode haver um senso de frustração, irritação ou descontentamento por parte da pessoa afetada pela situação.
+
+Resumo:
+O bloqueio/suspensão indevida do serviço ocorre quando uma pessoa é cobrada por algo que não recebeu ou foi cobrado por algo a mais do que o que estava previsto. Isso pode ser causado por uma empresa, organização ou indivíduo que não cumprir com as regras estabelecidas para o serviço.","O termo ""bloqueio/suspensão indevida do serviço"" sugere um problema relacionado à prestação de um serviço, onde há uma interrupção ou adição de custos não autorizados.
+
+Sentimento: O sentimento associado a este termo é provavelmente negativo, pois envolve uma situação de perda ou insatisfação do cliente em relação ao serviço fornecido. Pode haver um senso de frustração, irritação ou descontentamento por parte da pessoa afetada pela situação.
+
+Resumo:
+O bloqueio/suspensão indevida do serviço ocorre quando uma pessoa é cobrada por algo que não recebeu ou foi cobrado por algo a mais do que o que estava previsto. Isso pode ser causado por uma empresa, organização ou indivíduo que não cumprir com as regras estabelecidas para o serviço."
+plataforma web,m,mais de 70 anos,2025,2,2025-02-15,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a indevida / abusiva para alterar ou cancelar o contrato,nÃ£o comprei / contratei,"O sentimento do texto é negativo e preocupado, pois trata de cobranças indevidas e abusivas em relação a contratos.","O sentimento do texto é negativo e preocupado, pois trata de cobranças indevidas e abusivas em relação a contratos."
+plataforma web,f,entre 41 a 50 anos,2025,2,2025-02-15,"operadoras de telecomunicaÃ§Ãµes (telefonia, internet, tv por assinatura)",telecomunicaÃ§Ãµes,pacote de serviÃ§os ( combo ),contrato / oferta,alteraÃ§Ã£o de plano/contrato sem solicitaÃ§Ã£o ou aviso prÃ©vio,internet,"O sentimento do texto é negativo, pois se refere à alteração de um plano ou contrato sem prévio aviso ou solicitação.
+
+Resumo:
+
+A alteração de um plano ou contrato sem que ninguém esteja ciente ou consinta a mudança é considerada inadequada e potencialmente prejudicial. Isso pode ocorrer em situações onde as partes não estão cientes das mudanças propostas ou não têm o direito de negar a alteração. A falta de comunicação e transparência pode levar a sentimentos de injustiça, confusão e perda de confiança entre as partes envolvidas.","O sentimento do texto é negativo, pois se refere à alteração de um plano ou contrato sem prévio aviso ou solicitação.
+
+Resumo:
+
+A alteração de um plano ou contrato sem que ninguém esteja ciente ou consinta a mudança é considerada inadequada e potencialmente prejudicial. Isso pode ocorrer em situações onde as partes não estão cientes das mudanças propostas ou não têm o direito de negar a alteração. A falta de comunicação e transparência pode levar a sentimentos de injustiça, confusão e perda de confiança entre as partes envolvidas."
+plataforma web,m,entre 31 a 40 anos,2025,2,2025-02-16,aluguel de carros,demais serviÃ§os,"locaÃ§Ã£o/ aluguel - carros, roupas etc (exceto habitaÃ§Ã£o)",cobranÃ§a / contestaÃ§Ã£o,dificuldade / atraso na devoluÃ§Ã£o de valores pagos / reembolso / retenÃ§Ã£o de valores,loja fÃ­sica,"O sentimento do texto é negativo, desagradável e frustrante.
+
+Resumo: O texto menciona problemas com a devolução de valores pagos, incluindo dificuldade, atraso, reembolso e retenção de valores. Isso sugere uma situação problemática e potencialmente irritante para as pessoas envolvidas.","O sentimento do texto é negativo, desagradável e frustrante.
+
+Resumo: O texto menciona problemas com a devolução de valores pagos, incluindo dificuldade, atraso, reembolso e retenção de valores. Isso sugere uma situação problemática e potencialmente irritante para as pessoas envolvidas."
+plataforma web,m,mais de 70 anos,2025,2,2025-02-16,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,nÃ£o comprei / contratei,"O sentimento do texto é negativo, expressando frustração e potencialmente irritação com situações de cobrança indevida.
+
+Resumo: O texto se refere à situação em que alguém está sendo cobrado por um serviço ou produto que não foi contratado, nem reconhecido ou solicitado. Isso sugere uma situação de erro ou mal-entendido nas relações comerciais e pode gerar desconforto para o consumidor.","O sentimento do texto é negativo, expressando frustração e potencialmente irritação com situações de cobrança indevida.
+
+Resumo: O texto se refere à situação em que alguém está sendo cobrado por um serviço ou produto que não foi contratado, nem reconhecido ou solicitado. Isso sugere uma situação de erro ou mal-entendido nas relações comerciais e pode gerar desconforto para o consumidor."
+plataforma web,f,mais de 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado (para servidores pÃºblicos ou trabalhadores do setor privado),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a em duplicidade / cobranÃ§a referente a pagamento jÃ¡ efetuado,nÃ£o comprei / contratei,"O sentimento do texto é negativo, pois aborda a ideia de cobrança dupla ou cobrança por um pagamento que já foi efetuado.
+
+Resumo: O texto se refere à situação em que alguém está sendo cobrado pelo mesmo valor que já pagou.","O sentimento do texto é negativo, pois aborda a ideia de cobrança dupla ou cobrança por um pagamento que já foi efetuado.
+
+Resumo: O texto se refere à situação em que alguém está sendo cobrado pelo mesmo valor que já pagou."
+plataforma web,f,entre 21 a 30 anos,2025,2,2025-02-17,provedores de conteÃºdo e outros serviÃ§os na internet,demais serviÃ§os,"serviÃ§os na internet (provedor, hospedagem, aplicativos, streaming, jogos etc)",informaÃ§Ã£o,informaÃ§Ãµes incompletas / inadequadas sobre o serviÃ§o,internet,"O sentimento do texto é negativo, expressando insatisfação e frustração com as informações incompletas ou inadequadas recebidas sobre um serviço. O tom é crítico e desapontado.
+
+Resumo:
+
+O texto afirma que as informações fornecidas são incompletas ou inadequadas, o que pode estar causando problemas ou dificuldades em uma situação relacionada a um serviço. Isso sugere que há uma falta de transparência ou precisão nas informações apresentadas, o que está gerando descontentamento e insatisfação.","O sentimento do texto é negativo, expressando insatisfação e frustração com as informações incompletas ou inadequadas recebidas sobre um serviço. O tom é crítico e desapontado.
+
+Resumo:
+
+O texto afirma que as informações fornecidas são incompletas ou inadequadas, o que pode estar causando problemas ou dificuldades em uma situação relacionada a um serviço. Isso sugere que há uma falta de transparência ou precisão nas informações apresentadas, o que está gerando descontentamento e insatisfação."
+plataforma web,f,entre 61 a 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,nÃ£o comprei / contratei,"O sentimento do texto é de negativação, frustração e possivelmente injustiça. A palavra ""cobrança"" carrega uma conotação de pressão e potencial agressividade.
+
+A frase parece se referir a uma situação em que alguém está sendo cobrado por algo que não foi contratado, não reconhecido ou não solicitado, o que pode ser considerado injusto e frustrante para a pessoa afetada.","O sentimento do texto é de negativação, frustração e possivelmente injustiça. A palavra ""cobrança"" carrega uma conotação de pressão e potencial agressividade.
+
+A frase parece se referir a uma situação em que alguém está sendo cobrado por algo que não foi contratado, não reconhecido ou não solicitado, o que pode ser considerado injusto e frustrante para a pessoa afetada."
+plataforma web,m,entre 21 a 30 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,cartÃ£o de crÃ©dito / cartÃ£o de dÃ©bito / cartÃ£o de loja,cobranÃ§a / contestaÃ§Ã£o,renegociaÃ§Ã£o / parcelamento de dÃ­vida,internet,"Peço desculpas, mas não encontrei um texto específico para analisar. Você pode fornecer um texto relacionado à renegociação ou parcelamento de dívida? Eu posso ajudá-lo a analisar o sentimento e resumir o texto.
+
+Se você não tiver um texto específico, posso fornecer uma análise geral do tema:
+
+A renegociação ou parcelamento de dívida é um processo que envolve a negociação com o credor para reduzir o valor da dívida ou estender o prazo de pagamento. O sentimento associado à renegociação ou parcelamento de dívida pode variar dependendo do contexto e da situação específica.
+
+Em geral, a renegociação ou parcelamento de dívida pode ser uma solução útil para pessoas que estão enfrentando dificuldades financeiras e precisam encontrar uma maneira de pagar suas dívidas. No entanto, é importante lembrar que essa opção pode ter implicações para a credibilidade financeira e o futuro das finanças.
+
+O sentimento mais comum associado à renegociação ou parcelamento de dívida é um alívio, pois muitas pessoas se sentem aliviadas por ter encontrado uma solução para pagar suas dívidas. Além disso, a sensação de controle e segurança que vem com a renegociação ou parcelamento de dívida também pode ser positiva.
+
+No entanto, é importante lembrar que a renegociação ou parcelamento de dívida não é sempre fácil e pode exigir esforço e compromisso para negociar com o credor e cumprir as condições estabelecidas.","Peço desculpas, mas não encontrei um texto específico para analisar. Você pode fornecer um texto relacionado à renegociação ou parcelamento de dívida? Eu posso ajudá-lo a analisar o sentimento e resumir o texto.
+
+Se você não tiver um texto específico, posso fornecer uma análise geral do tema:
+
+A renegociação ou parcelamento de dívida é um processo que envolve a negociação com o credor para reduzir o valor da dívida ou estender o prazo de pagamento. O sentimento associado à renegociação ou parcelamento de dívida pode variar dependendo do contexto e da situação específica.
+
+Em geral, a renegociação ou parcelamento de dívida pode ser uma solução útil para pessoas que estão enfrentando dificuldades financeiras e precisam encontrar uma maneira de pagar suas dívidas. No entanto, é importante lembrar que essa opção pode ter implicações para a credibilidade financeira e o futuro das finanças.
+
+O sentimento mais comum associado à renegociação ou parcelamento de dívida é um alívio, pois muitas pessoas se sentem aliviadas por ter encontrado uma solução para pagar suas dívidas. Além disso, a sensação de controle e segurança que vem com a renegociação ou parcelamento de dívida também pode ser positiva.
+
+No entanto, é importante lembrar que a renegociação ou parcelamento de dívida não é sempre fácil e pode exigir esforço e compromisso para negociar com o credor e cumprir as condições estabelecidas."
+plataforma web,f,entre 61 a 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,internet,"O sentimento expresso no texto é de negatividade e desconforto.
+
+A palavra ""cobrança"" já em si é uma palavra que evoca sentimentos negativos, pois muitas vezes é associada a pressão financeira e ressentimento.
+
+Já as palavras ""não contratado"", ""não reconhecido"" e ""não solicitado"" reforçam essa sensação de desconforto, sugerindo uma situação injusta ou prejudicial para o indivíduo afetado.
+
+Em resumo, o sentimento do texto é que alguém está sendo cobrado por algo que não foi pedido ou aceito, o que pode causar frustração e ansiedade.","O sentimento expresso no texto é de negatividade e desconforto.
+
+A palavra ""cobrança"" já em si é uma palavra que evoca sentimentos negativos, pois muitas vezes é associada a pressão financeira e ressentimento.
+
+Já as palavras ""não contratado"", ""não reconhecido"" e ""não solicitado"" reforçam essa sensação de desconforto, sugerindo uma situação injusta ou prejudicial para o indivíduo afetado.
+
+Em resumo, o sentimento do texto é que alguém está sendo cobrado por algo que não foi pedido ou aceito, o que pode causar frustração e ansiedade."
+plataforma web,f,entre 41 a 50 anos,2025,2,2025-02-17,aluguel de carros,demais serviÃ§os,"locaÃ§Ã£o/ aluguel - carros, roupas etc (exceto habitaÃ§Ã£o)",cobranÃ§a / contestaÃ§Ã£o,dificuldade / atraso na devoluÃ§Ã£o de valores pagos / reembolso / retenÃ§Ã£o de valores,nÃ£o comprei / contratei,"O texto parece referir-se a uma situação em que há um problema relacionado à devolução de valores pagos, como reembolsos ou retrocessões. O sentimento associado a este tema geralmente é negativo, pois envolve expectativas não cumpridas e possíveis perdas financeiras.
+
+Aqui está um resumo do sentimento:
+
+**Sentimento: Negativo**
+
+**Motivos:**
+
+* Dificuldade na devolução de valores pagos
+* Atraso na devolução de valores pagos
+* Possível retenção de valores
+
+Esses motivos sugerem que há uma situação em que o cliente ou beneficiário está esperando receber algo, mas não está recebendo no tempo ou no valor previsto. Isso pode causar frustração e perda financeira.","O texto parece referir-se a uma situação em que há um problema relacionado à devolução de valores pagos, como reembolsos ou retrocessões. O sentimento associado a este tema geralmente é negativo, pois envolve expectativas não cumpridas e possíveis perdas financeiras.
+
+Aqui está um resumo do sentimento:
+
+**Sentimento: Negativo**
+
+**Motivos:**
+
+* Dificuldade na devolução de valores pagos
+* Atraso na devolução de valores pagos
+* Possível retenção de valores
+
+Esses motivos sugerem que há uma situação em que o cliente ou beneficiário está esperando receber algo, mas não está recebendo no tempo ou no valor previsto. Isso pode causar frustração e perda financeira."
+plataforma web,m,entre 41 a 50 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,financiamentos de veÃ­culos / leasing,cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,loja fÃ­sica,"O sentimento do texto é negativo e frustrante, indicando uma situação de descontentamento e potencial conflito com um cliente ou consumidor que está sendo cobrado por um serviço ou produto que não foi contratado, não reconhecido ou não solicitado.
+
+Resumindo, o texto sugere que alguém está recebendo uma cobrança indevida relacionada a um serviço ou produto que não tem base legal ou contractual para ser exigido.","O sentimento do texto é negativo e frustrante, indicando uma situação de descontentamento e potencial conflito com um cliente ou consumidor que está sendo cobrado por um serviço ou produto que não foi contratado, não reconhecido ou não solicitado.
+
+Resumindo, o texto sugere que alguém está recebendo uma cobrança indevida relacionada a um serviço ou produto que não tem base legal ou contractual para ser exigido."
+plataforma web,f,entre 31 a 40 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito pessoal e demais emprÃ©stimos (exceto financiamento de imÃ³veis e veÃ­culos),cobranÃ§a / contestaÃ§Ã£o,"cÃ¡lculo de juros, saldo devedor (contestaÃ§Ã£o, solicitaÃ§Ã£o de histÃ³rico, dÃºvidas)",internet,"O texto apresentado parece ser um snippet de uma lista de serviços relacionados a créditos e débitos. 
+
+O sentimento presente nesse texto é neutro, pois não há expressões emocionais ou linguagem que sugira uma opinião ou emoção forte.
+
+Aqui está um resumo do texto:
+
+""Serviços relacionados a juros, saldo devedor, contstação, solicitação de histórico e dúvidas.""","O texto apresentado parece ser um snippet de uma lista de serviços relacionados a créditos e débitos. 
+
+O sentimento presente nesse texto é neutro, pois não há expressões emocionais ou linguagem que sugira uma opinião ou emoção forte.
+
+Aqui está um resumo do texto:
+
+""Serviços relacionados a juros, saldo devedor, contstação, solicitação de histórico e dúvidas."""
+plataforma web,f,entre 51 a 60 anos,2025,2,2025-02-17,"seguros, capitalizaÃ§Ã£o e previdÃªncia",serviÃ§os financeiros,crÃ©dito consignado (para servidores pÃºblicos ou trabalhadores do setor privado),cobranÃ§a / contestaÃ§Ã£o,"dificuldade para obter boleto de quitaÃ§Ã£o ou informaÃ§Ãµes acerca de cÃ¡lculos, pagamentos, saldo devedor",telefone,"O sentimento expresso no texto é negativo e frustrante.
+
+A resumo do texto é:
+
+""Estou enfrentando dificuldade em obter um boleto de quitação ou informações sobre meus cálculos, pagamentos e saldo devedor.""","O sentimento expresso no texto é negativo e frustrante.
+
+A resumo do texto é:
+
+""Estou enfrentando dificuldade em obter um boleto de quitação ou informações sobre meus cálculos, pagamentos e saldo devedor."""
+plataforma web,m,entre 31 a 40 anos,2025,2,2025-02-17,"seguros, capitalizaÃ§Ã£o e previdÃªncia",serviÃ§os financeiros,demais seguros,cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,loja fÃ­sica,"O sentimento do texto é negativo e frustrante, pois parece tratar de uma situação em que alguém está sendo cobrado por um serviço, produto ou valor que não foi solicitado, não foi reconhecido como parte do contrato ou não foi contratado originalmente.
+
+Resumindo o texto, podemos dizer que há uma disputa ou reclamação sobre uma cobrança injusta ou incorreta, possivelmente relacionada a uma situação de falta de clareza ou comunicação na contratação ou serviço prestado.","O sentimento do texto é negativo e frustrante, pois parece tratar de uma situação em que alguém está sendo cobrado por um serviço, produto ou valor que não foi solicitado, não foi reconhecido como parte do contrato ou não foi contratado originalmente.
+
+Resumindo o texto, podemos dizer que há uma disputa ou reclamação sobre uma cobrança injusta ou incorreta, possivelmente relacionada a uma situação de falta de clareza ou comunicação na contratação ou serviço prestado."
+plataforma web,m,entre 41 a 50 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado (para servidores pÃºblicos ou trabalhadores do setor privado),cobranÃ§a / contestaÃ§Ã£o,"cÃ¡lculo de juros, saldo devedor (contestaÃ§Ã£o, solicitaÃ§Ã£o de histÃ³rico, dÃºvidas)",internet,"O texto apresenta um sentimento neutro ou formal. Ele parece ser uma lista de conceitos relacionados ao gerenciamento financeiro, como cálculo de juros, saldo devedor e dúvidas.
+
+Resumindo o texto em uma frase, podemos dizer que ele aborda aspectos fundamentais da gestão financeira, incluindo a contabilidade e a resolução de problemas relacionados a dívidas.","O texto apresenta um sentimento neutro ou formal. Ele parece ser uma lista de conceitos relacionados ao gerenciamento financeiro, como cálculo de juros, saldo devedor e dúvidas.
+
+Resumindo o texto em uma frase, podemos dizer que ele aborda aspectos fundamentais da gestão financeira, incluindo a contabilidade e a resolução de problemas relacionados a dívidas."
+plataforma web,m,mais de 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,"cÃ¡lculo de juros, saldo devedor (contestaÃ§Ã£o, solicitaÃ§Ã£o de histÃ³rico, dÃºvidas)",telefone,"O sentimento do texto é neutro, pois não há emoções ou palavras que sugiram uma opinião positiva ou negativa. O texto parece ser um termo técnico utilizado em um contexto financeiro, como um módulo de serviço ou um processo administrativo.
+
+Resumindo o texto, podemos dizer que se trata de um módulo de serviço que envolve cálculos de juros, gerenciamento do saldo devedor (incluindo transações de contabilização, solicitação de histórico e gestão de dívidas).","O sentimento do texto é neutro, pois não há emoções ou palavras que sugiram uma opinião positiva ou negativa. O texto parece ser um termo técnico utilizado em um contexto financeiro, como um módulo de serviço ou um processo administrativo.
+
+Resumindo o texto, podemos dizer que se trata de um módulo de serviço que envolve cálculos de juros, gerenciamento do saldo devedor (incluindo transações de contabilização, solicitação de histórico e gestão de dívidas)."
+plataforma web,m,entre 51 a 60 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,nÃ£o comprei / contratei,"O sentimento do texto é negativo, carregado de frustração e descontentamento.
+
+Resumo:
+
+O texto aborda a cobrança de serviços ou produtos que não foram contratados, não foram reconhecidos ou não foram solicitados. Isso sugere uma situação em que alguém está sendo exigido para pagar por algo que não foi de sua escolha ou necessidade. A linguagem usada tem um tom de negação e descontentamento, indicando que a pessoa está se sentindo enganada ou mal tratada.","O sentimento do texto é negativo, carregado de frustração e descontentamento.
+
+Resumo:
+
+O texto aborda a cobrança de serviços ou produtos que não foram contratados, não foram reconhecidos ou não foram solicitados. Isso sugere uma situação em que alguém está sendo exigido para pagar por algo que não foi de sua escolha ou necessidade. A linguagem usada tem um tom de negação e descontentamento, indicando que a pessoa está se sentindo enganada ou mal tratada."
+plataforma web,m,entre 51 a 60 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,internet,"O sentimento do texto é negativo e frustrante.
+
+Resumo:
+
+O texto refere-se a uma situação em que alguém está sendo cobrado por um serviço, produto ou valor que não foi contratado, não reconhecido ou não solicitado. Isso sugere que há uma falta de transparência e equidade na relação entre as partes envolvidas, criando uma sensação de injustiça e frustração.","O sentimento do texto é negativo e frustrante.
+
+Resumo:
+
+O texto refere-se a uma situação em que alguém está sendo cobrado por um serviço, produto ou valor que não foi contratado, não reconhecido ou não solicitado. Isso sugere que há uma falta de transparência e equidade na relação entre as partes envolvidas, criando uma sensação de injustiça e frustração."
+plataforma web,f,mais de 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,nÃ£o comprei / contratei,"O sentimento do texto é negativo.
+
+A frase ""cobrança por serviço/produto não contratado, não reconhecido, não solicitado"" sugere que há uma situação de disputa ou controvérsia financeira. A palavra ""cobrança"" tem um tom de pressão e exigência, o que indica que a pessoa está sendo impulsionada a pagar algo que não é aceitável.
+
+Em resumo, o texto indica que alguém está sendo cobrado por algo que:
+
+* Não foi contratado
+* Não foi reconhecido (proposto ou solicitado)
+* Não foi solicitado
+
+Isso sugere uma situação de fraude ou engano financeiro.","O sentimento do texto é negativo.
+
+A frase ""cobrança por serviço/produto não contratado, não reconhecido, não solicitado"" sugere que há uma situação de disputa ou controvérsia financeira. A palavra ""cobrança"" tem um tom de pressão e exigência, o que indica que a pessoa está sendo impulsionada a pagar algo que não é aceitável.
+
+Em resumo, o texto indica que alguém está sendo cobrado por algo que:
+
+* Não foi contratado
+* Não foi reconhecido (proposto ou solicitado)
+* Não foi solicitado
+
+Isso sugere uma situação de fraude ou engano financeiro."
+plataforma web,m,entre 31 a 40 anos,2025,2,2025-02-17,provedores de conteÃºdo e outros serviÃ§os na internet,demais serviÃ§os,"serviÃ§os na internet (provedor, hospedagem, aplicativos, streaming, jogos etc)",dados pessoais e privacidade,"vazamento de dados ou outros incidentes de seguranÃ§a (acessos nÃ£o autorizados e situaÃ§Ãµes acidentais ou ilÃ­citas de destruiÃ§Ã£o, perda, alteraÃ§Ã£o, comunicaÃ§Ã£o ou tratamento inadequado ou ilÃ­cito)",internet,"O sentimento do texto é neutro e objetivo, descrevendo um tipo de incidente que pode ocorrer em uma organização. O texto não contém linguagem emocional ou expressiva, apenas fornecendo informações sobre o que considera um vazamento de dados ou outros incidentes de segurança.
+
+Resumindo, o texto descreve situações de acessos não autorizados, acidentes ou ações ilegais que podem resultar em perda, alteração ou comunicação inadequada de dados.","O sentimento do texto é neutro e objetivo, descrevendo um tipo de incidente que pode ocorrer em uma organização. O texto não contém linguagem emocional ou expressiva, apenas fornecendo informações sobre o que considera um vazamento de dados ou outros incidentes de segurança.
+
+Resumindo, o texto descreve situações de acessos não autorizados, acidentes ou ações ilegais que podem resultar em perda, alteração ou comunicação inadequada de dados."
+plataforma web,f,entre 61 a 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,"cobranÃ§a de tarifas, taxas, valores nÃ£o previstos / nÃ£o informados",internet,"O sentimento do texto é negativo e frustrado. A palavra ""cobrança"" em si já tem um conotação desagradável, mas a adição das palavras ""tarifas"", ""taxas"" e ""valores não previstos/não informados"" aumenta o tom de irritação e descontentamento.
+
+Em resumo, o texto se refere à ideia de que as pessoas estão sendo cobradas por valores que não foram previstos ou informados anteriormente, o que pode ser visto como injusto e frustrante. O sentimento é de que a situação é difícil de lidar e pode ser considerada uma forma de exploração.","O sentimento do texto é negativo e frustrado. A palavra ""cobrança"" em si já tem um conotação desagradável, mas a adição das palavras ""tarifas"", ""taxas"" e ""valores não previstos/não informados"" aumenta o tom de irritação e descontentamento.
+
+Em resumo, o texto se refere à ideia de que as pessoas estão sendo cobradas por valores que não foram previstos ou informados anteriormente, o que pode ser visto como injusto e frustrante. O sentimento é de que a situação é difícil de lidar e pode ser considerada uma forma de exploração."
+plataforma web,f,entre 21 a 30 anos,2025,2,2025-02-17,comÃ©rcio eletrÃ´nico,demais serviÃ§os,"serviÃ§os na internet (provedor, hospedagem, aplicativos, streaming, jogos etc)",vÃ­cio de qualidade,suspensÃ£o ou desligamento indevido do serviÃ§o,nÃ£o comprei / contratei,"O sentimento do texto é neutro, pois não há expressões emotivas fortes que indiquem um tom positivo ou negativo. No entanto, posso analisar o significado e a conotação do termo.
+
+A suspensão ou desligamento indevido do serviço pode ter diferentes conotações dependendo do contexto em que é usado. Em geral, é considerada uma situação negativa, pois pode causar inconvenientes para os usuários e afetar negativamente a qualidade do serviço fornecido.
+
+Se fosse resumido, o texto poderia ser reescrito como: ""Suspensão ou interrupção do serviço sem motivo justo"". Isso captura melhor a ideia de que o serviço foi interrompido de forma desnecessária.","O sentimento do texto é neutro, pois não há expressões emotivas fortes que indiquem um tom positivo ou negativo. No entanto, posso analisar o significado e a conotação do termo.
+
+A suspensão ou desligamento indevido do serviço pode ter diferentes conotações dependendo do contexto em que é usado. Em geral, é considerada uma situação negativa, pois pode causar inconvenientes para os usuários e afetar negativamente a qualidade do serviço fornecido.
+
+Se fosse resumido, o texto poderia ser reescrito como: ""Suspensão ou interrupção do serviço sem motivo justo"". Isso captura melhor a ideia de que o serviço foi interrompido de forma desnecessária."
+plataforma web,m,entre 41 a 50 anos,2025,2,2025-02-17,"operadoras de telecomunicaÃ§Ãµes (telefonia, internet, tv por assinatura)",telecomunicaÃ§Ãµes,pacote de serviÃ§os ( combo ),atendimento / sac,sac - demanda nÃ£o resolvida / nÃ£o respondida / respondida apÃ³s o prazo,nÃ£o comprei / contratei,"O sentimento do texto é negativo, expressando frustração e descontentamento com uma situação ou procedimento. A palavra ""demandas"" em pleno uso, sugere que existe algum problema ou inconformidade que não foi atendido.
+
+Resumo:
+
+A frase indica um problema com uma demanda que ainda não foi resolvida, ou seja, a situação permanece pendente e não foi resolvida dentro do prazo estabelecido.","O sentimento do texto é negativo, expressando frustração e descontentamento com uma situação ou procedimento. A palavra ""demandas"" em pleno uso, sugere que existe algum problema ou inconformidade que não foi atendido.
+
+Resumo:
+
+A frase indica um problema com uma demanda que ainda não foi resolvida, ou seja, a situação permanece pendente e não foi resolvida dentro do prazo estabelecido."
+plataforma web,f,entre 51 a 60 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a indevida / abusiva para alterar ou cancelar o contrato,loja fÃ­sica,"O sentimento do texto é negativo, expressando descontentamento e possivelmente frustração com situações de cobrança indevida ou abusiva relacionadas a contratos. O uso da palavra ""abusiva"" sugere que a pessoa se sente explorada ou tratada injustamente.
+
+Resumo:
+
+O texto aborda problemas de cobrança indevida ou exagerada para alterar ou cancelar um contrato, sugerindo uma situação desfavorável e potencialmente injusta.","O sentimento do texto é negativo, expressando descontentamento e possivelmente frustração com situações de cobrança indevida ou abusiva relacionadas a contratos. O uso da palavra ""abusiva"" sugere que a pessoa se sente explorada ou tratada injustamente.
+
+Resumo:
+
+O texto aborda problemas de cobrança indevida ou exagerada para alterar ou cancelar um contrato, sugerindo uma situação desfavorável e potencialmente injusta."
+plataforma web,m,entre 41 a 50 anos,2025,2,2025-02-17,transporte aÃ©reo,transportes,aÃ©reo,atendimento / sac,falta de atendimento prioritÃ¡rio,nÃ£o comprei / contratei,"O sentimento do texto é negativo, pois se refere à falta de atendimento prioritário.","O sentimento do texto é negativo, pois se refere à falta de atendimento prioritário."
+plataforma web,f,entre 31 a 40 anos,2025,2,2025-02-17,comÃ©rcio eletrÃ´nico,demais produtos,"produtos para crianÃ§as (carrinho, brinquedos, cadeira, vestuÃ¡rio, mamadeira, etc)",atendimento / sac,dificuldade de contato / demora no atendimento,internet,"O sentimento expresso nesse termo é negativo, relacionado à frustração ou insatisfação com a situação em questão.
+
+No contexto geral, a dificuldade de contato e a demora no atendimento podem ser causadas por uma variedade de fatores, como:
+
+- Falta de capacidade da equipe de atendimento
+- Sobrecarga do sistema
+- Falha técnica ou de infraestrutura
+- Falta de comunicação entre as equipes
+
+Em resumo, a dificuldade de contato e a demora no atendimento podem criar uma experiência negativa para os clientes, afetando sua satisfação com o serviço e potencialmente afetando sua fidelidade.","O sentimento expresso nesse termo é negativo, relacionado à frustração ou insatisfação com a situação em questão.
+
+No contexto geral, a dificuldade de contato e a demora no atendimento podem ser causadas por uma variedade de fatores, como:
+
+- Falta de capacidade da equipe de atendimento
+- Sobrecarga do sistema
+- Falha técnica ou de infraestrutura
+- Falta de comunicação entre as equipes
+
+Em resumo, a dificuldade de contato e a demora no atendimento podem criar uma experiência negativa para os clientes, afetando sua satisfação com o serviço e potencialmente afetando sua fidelidade."
+plataforma web,f,entre 61 a 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito pessoal e demais emprÃ©stimos (exceto financiamento de imÃ³veis e veÃ­culos),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,nÃ£o comprei / contratei,"O sentimento do texto é negativo.
+
+Resumo:
+
+O texto aborda a cobrança de valor por um serviço, produto ou ação que não foi contratado, reconhecido ou solicitado. Pode ser interpretado como uma situação de fraude ou erro administrativo, onde uma pessoa está sendo cobrada pelo algo que não teve consentimento ou justificativa para realizar.","O sentimento do texto é negativo.
+
+Resumo:
+
+O texto aborda a cobrança de valor por um serviço, produto ou ação que não foi contratado, reconhecido ou solicitado. Pode ser interpretado como uma situação de fraude ou erro administrativo, onde uma pessoa está sendo cobrada pelo algo que não teve consentimento ou justificativa para realizar."
+plataforma web,m,entre 41 a 50 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o/produto nÃ£o contratado / nÃ£o reconhecido / nÃ£o solicitado,nÃ£o comprei / contratei,"O sentimento do texto é negativo, pois descreve uma situação em que a pessoa está sendo cobrada por um serviço ou produto que não foi contratado, não reconhecido ou não solicitado. Isso sugere uma falta de transparência e equidade na relação entre as partes.
+
+Resumindo o texto em palavras-chave, podemos dizer que é sobre cobranças indevidas por serviços ou produtos não autorizados.","O sentimento do texto é negativo, pois descreve uma situação em que a pessoa está sendo cobrada por um serviço ou produto que não foi contratado, não reconhecido ou não solicitado. Isso sugere uma falta de transparência e equidade na relação entre as partes.
+
+Resumindo o texto em palavras-chave, podemos dizer que é sobre cobranças indevidas por serviços ou produtos não autorizados."
+plataforma web,m,entre 31 a 40 anos,2025,2,2025-02-17,"operadoras de telecomunicaÃ§Ãµes (telefonia, internet, tv por assinatura)",telecomunicaÃ§Ãµes,internet mÃ³vel,cobranÃ§a / contestaÃ§Ã£o,cobranÃ§a por serviÃ§o nÃ£o fornecido/ em desacordo com a utilizaÃ§Ã£o / fora do prazo,nÃ£o comprei / contratei,"O sentimento do texto é formal, objetivo e profissional.
+
+Resumo:
+
+O texto discute cobranças relacionadas ao serviço não fornecido, utilizado de forma incorreta ou fora do prazo estabelecido. Pode ser um aviso de faturamento para clientes que não atendem às condições de uso do serviço.","O sentimento do texto é formal, objetivo e profissional.
+
+Resumo:
+
+O texto discute cobranças relacionadas ao serviço não fornecido, utilizado de forma incorreta ou fora do prazo estabelecido. Pode ser um aviso de faturamento para clientes que não atendem às condições de uso do serviço."
+plataforma web,f,entre 61 a 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito pessoal e demais emprÃ©stimos (exceto financiamento de imÃ³veis e veÃ­culos),cobranÃ§a / contestaÃ§Ã£o,"cÃ¡lculo de juros, saldo devedor (contestaÃ§Ã£o, solicitaÃ§Ã£o de histÃ³rico, dÃºvidas)",loja fÃ­sica,"O sentimento do texto parece ser neutro, pois não há palavras ou expressões que indiquem emoção positiva ou negativa. O texto parece ser uma lista de tópicos relacionados a processos financeiros e administrativos.
+
+Resumindo o texto em poucas palavras, podemos dizer que ele se refere aos seguintes aspectos:
+
+- Cálculo de juros
+- Saldo devedor (contestação, solicitação de histórico, dívidas)
+
+Em resumo, o texto lista tópicos relacionados a processos financeiros e administrativos.","O sentimento do texto parece ser neutro, pois não há palavras ou expressões que indiquem emoção positiva ou negativa. O texto parece ser uma lista de tópicos relacionados a processos financeiros e administrativos.
+
+Resumindo o texto em poucas palavras, podemos dizer que ele se refere aos seguintes aspectos:
+
+- Cálculo de juros
+- Saldo devedor (contestação, solicitação de histórico, dívidas)
+
+Em resumo, o texto lista tópicos relacionados a processos financeiros e administrativos."
+plataforma web,f,entre 61 a 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,atendimento bancÃ¡rio,vÃ­cio de qualidade,"dificuldade de contato ou acesso aos serviÃ§os - caixa eletrÃ´nico, agÃªncia, internet banking",internet,"O sentimento do texto é negativo, indicando uma dificuldade em realizar certas atividades relacionadas a serviços financeiros.
+
+Resumo:
+
+O texto destaca problemas de contato ou acesso aos serviços bancários, incluindo caixa eletrônico, agência e internet banking. Isso sugere que há uma falta de facilidade ou comunicação eficaz com os serviços oferecidos pela instituição financeira.","O sentimento do texto é negativo, indicando uma dificuldade em realizar certas atividades relacionadas a serviços financeiros.
+
+Resumo:
+
+O texto destaca problemas de contato ou acesso aos serviços bancários, incluindo caixa eletrônico, agência e internet banking. Isso sugere que há uma falta de facilidade ou comunicação eficaz com os serviços oferecidos pela instituição financeira."
+plataforma web,f,entre 51 a 60 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),contrato / oferta,nÃ£o entrega do contrato ou documentaÃ§Ã£o relacionada ao serviÃ§o,nÃ£o comprei / contratei,"Peço desculpas, mas não consegui encontrar um texto para analisar. Você pode fornecer o texto que deseja que eu analise? Estou aqui para ajudar!","Peço desculpas, mas não consegui encontrar um texto para analisar. Você pode fornecer o texto que deseja que eu analise? Estou aqui para ajudar!"
+plataforma web,f,entre 61 a 70 anos,2025,2,2025-02-17,"bancos, financeiras e administradoras de cartÃ£o",serviÃ§os financeiros,crÃ©dito consignado / cartÃ£o de crÃ©dito consignado / rmc (para beneficiÃ¡rios do inss),atendimento / sac,sac - dificuldade para cancelar o serviÃ§o,nÃ£o comprei / contratei,"O sentimento do texto é negativo, indicando uma dificuldade ou problema em cancelar um serviço de sac (possivelmente um assinamento de pagamento ou plano de saída).
+
+Resumo: O texto sugere que há um obstáculo para cancelar um serviço, provavelmente relacionado a uma assinatura de pagamento ou plano.","O sentimento do texto é negativo, indicando uma dificuldade ou problema em cancelar um serviço de sac (possivelmente um assinamento de pagamento ou plano de saída).
+
+Resumo: O texto sugere que há um obstáculo para cancelar um serviço, provavelmente relacionado a uma assinatura de pagamento ou plano."
+plataforma web,f,entre 31 a 40 anos,2025,2,2025-02-17,comÃ©rcio eletrÃ´nico,demais produtos,"vestuÃ¡rio e artigos de uso pessoal (roupa, calÃ§ados, jÃ³ias, bijuterias, malas, bolsas, etc)",dados pessoais e privacidade,dificuldade de reclamar ou de obter tratamento a reclamaÃ§Ã£o sobre dados pessoais ou financeiros,internet,"O sentimento do texto é negativo, pois aborda problemas relacionados à privacidade e proteção de dados pessoais e financeiros. 
+
+Resumo: O texto menciona a dificuldade em reclamar ou obter tratamento adequado ao apresentar reclamações sobre dados pessoais ou financeiros, indicando uma falta de eficácia nas medidas de proteção da privacidade e da segurança dos dados.","O sentimento do texto é negativo, pois aborda problemas relacionados à privacidade e proteção de dados pessoais e financeiros. 
+
+Resumo: O texto menciona a dificuldade em reclamar ou obter tratamento adequado ao apresentar reclamações sobre dados pessoais ou financeiros, indicando uma falta de eficácia nas medidas de proteção da privacidade e da segurança dos dados."

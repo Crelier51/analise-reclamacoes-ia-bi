@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mxfile host="app.diagrams.net" modified="2025-05-29T16:00:00.000Z" agent="5.0 (Windows)" etag="abc123" version="16.0.0" type="device">
+  <diagram id="1q2w3e4r" name="Página-1">
+    <mxGraphModel dx="1024" dy="768" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        
+        <!-- Bloco 1: Coleta de Dados -->
+        <mxCell id="2" value="1. Coleta de Dados" style="rounded=1;fillColor=#cfe2f3;strokeColor=#6c8ebf;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="180" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- Bloco 2: Armazenamento em Nuvem (AWS S3) -->
+        <mxCell id="3" value="2. Armazenamento em Nuvem (AWS S3)" style="rounded=1;fillColor=#d9ead3;strokeColor=#6aa84f;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="40" width="220" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- Bloco 3: Processamento com LLM (Ollama via Zapper) -->
+        <mxCell id="4" value="3. Processamento com LLM (Ollama via Zapper)" style="rounded=1;fillColor=#fff2cc;strokeColor=#bf9000;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="40" width="260" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- Bloco 4: Visualização com Power BI -->
+        <mxCell id="5" value="4. Visualização no Power BI" style="rounded=1;fillColor=#ead1dc;strokeColor=#a64d79;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="820" y="40" width="180" height="80" as="geometry"/>
+        </mxCell>
+
+        <!-- Setas -->
+        <mxCell id="6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6c8ebf;" edge="1" parent="1" source="2" target="3">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#6aa84f;" edge="1" parent="1" source="3" target="4">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+        <mxCell id="8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#bf9000;" edge="1" parent="1" source="4" target="5">
+          <mxGeometry relative="1" as="geometry"/>
+        </mxCell>
+
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
