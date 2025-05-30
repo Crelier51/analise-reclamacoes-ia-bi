@@ -1,4 +1,3 @@
-
 # 📊 Análise Inteligente de Reclamações com IA e BI
 
 Projeto completo de análise de dados baseado em reclamações públicas do [Consumidor.gov.br](https://dados.consultaspublicas.com.br/), integrando ferramentas de **coleta automatizada**, **armazenamento em nuvem (AWS S3)**, **processamento com IA (LLM)** e visualização em **Power BI**.
@@ -24,31 +23,33 @@ Projeto completo de análise de dados baseado em reclamações públicas do [Con
   - Análise de sentimentos
   - Geração de resumos
   - Identificação de padrões
-- Script: Pipeline que lê e grava no S3
+- Script: Pipeline completo que lê, processa e grava no S3
 - Arquivo gerado: `resultado_analise_incremental.csv`
 - Status: ✅ Concluído
 
 ### 4. Integração com Power BI
 - Conexão direta com o S3 (AWS)
 - Visualizações desenvolvidas:
-  - Gráfico de linha: ano x volume de reclamações
+  - Tendência de reclamações por ano
   - Filtros por segmento de mercado
-  - Tabela com análise de sentimentos
+  - Tabela com análise de sentimentos da IA
 - Arquivo: `grafico-BI.pbix`
 - Status: ✅ Concluído
+
+🔗 (Opcional) [Acesse o Dashboard Interativo](https://app.powerbi.com/...)  
 
 ---
 
 ## 📂 Estrutura dos Arquivos no Repositório
 
-```
-├── coleta_dados.py                   # Script de coleta da base original
-├── limpeza_transformacao.py         # Script de limpeza e pré-processamento
-├── gera_amostra.py                  # Gera amostra com subset da análise final
-├── resultado_analise_amostra.csv    # Exemplo de saída com subset
-├── resultado_analise_incremental.csv# Arquivo completo com análise da IA
-└── grafico-BI.pbix                  # Visualização no Power BI
-```
+├── coleta_dados.py # Script de coleta automatizada
+├── limpeza_transformacao.py # Limpeza e pré-processamento
+├── gera_amostra.py # Subset para testes rápidos
+├── resultado_analise_amostra.csv # Saída com amostra
+├── resultado_analise_incremental.csv# Arquivo completo da IA
+├── grafico-BI.pbix # Power BI visualizações
+└── arquitetura-diagrama.png # Diagrama da solução
+
 
 ---
 
@@ -58,49 +59,48 @@ Projeto completo de análise de dados baseado em reclamações públicas do [Con
 
 ---
 
-## 🔜 Próximos Passos
-
-1. Refinar visualizações no Power BI  
-2. Adicionar filtros e segmentações (região, empresa, assunto)  
-3. Incluir tendência temporal e análises da IA  
-4. Criar e publicar o diagrama da arquitetura da solução  
-5. Tornar o dashboard público (opcional)  
-
----
-
 ## 🎯 Objetivo
 
-Construir uma solução moderna de **análise de reclamações públicas**, combinando ciência de dados, cloud computing, BI e LLMs (modelos de linguagem).
+Construir uma solução moderna de **análise de reclamações públicas**, combinando ciência de dados, cloud computing, BI e modelos de linguagem (LLM).
 
 ---
 
-## 🗂️ Tecnologias Utilizadas
+## 🧠 Análises com Inteligência Artificial
+
+A IA foi utilizada para:
+- Identificar o **sentimento** de cada reclamação  
+- Detectar **padrões e tópicos recorrentes**  
+- Gerar **resumos automáticos**  
+
+---
+
+## 🔧 Tecnologias Utilizadas
 
 - **Python**  
 - **AWS S3**  
-- **Ollama (Zapper.to API)**  
+- **Ollama (via API Zapper.to)**  
 - **Power BI**  
 - **Git/GitHub**  
 
 ---
 
-## 🧠 Análises da IA
+## 📈 Próximos Passos (Aperfeiçoamento)
 
-A IA foi utilizada para:
-
-- Identificar o **sentimento** de cada reclamação  
-- Detectar **padrões e tópicos recorrentes**  
-- Gerar **resumos automáticos** para facilitar a leitura  
-
----
-
-## 📌 Sobre
-
-Este projeto faz parte de um desafio prático com prazo de 14 dias, com o objetivo de construir uma pipeline de dados inteligente do início ao fim.
+1. Refinar visualizações no Power BI  
+2. Adicionar filtros por região, empresa, assunto  
+3. Incluir tendência mensal e insights da IA  
+4. Publicar dashboard no Power BI Service (opcional)  
+5. Finalizar e apresentar o diagrama da arquitetura  
 
 ---
 
-## 📎 Contato
+## 📎 Sobre
+
+Este projeto faz parte de um **desafio técnico prático de entrevista** com prazo original de 14 dias. A entrega buscou aplicar conceitos reais de engenharia e análise de dados com IA.
+
+---
+
+## 📬 Contato
 
 Diogo Crelier  
-[LinkedIn](https://www.linkedin.com/) *(link opcional para portfólio ou rede)*
+[LinkedIn](https://www.linkedin.com/in/seu-usuario) *(adicione seu link real)*
