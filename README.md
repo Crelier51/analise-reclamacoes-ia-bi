@@ -1,106 +1,80 @@
 # 📊 Análise Inteligente de Reclamações com IA e BI
 
-Projeto completo de análise de dados baseado em reclamações públicas do [Consumidor.gov.br](https://dados.consultaspublicas.com.br/), integrando ferramentas de **coleta automatizada**, **armazenamento em nuvem (AWS S3)**, **processamento com IA (LLM)** e visualização em **Power BI**.
+Projeto prático com objetivo de construir uma solução completa de análise de reclamações públicas, utilizando ferramentas modernas de **ciência de dados**, **LLMs (Inteligência Artificial)** e **Business Intelligence (BI)**.
+
+## 🚀 Objetivo
+
+Extrair valor de dados públicos do portal [Consumidor.gov.br](https://www.consumidor.gov.br), automatizando o processo de coleta, tratamento, análise com IA e visualização em dashboard interativo.
+
+---
+
+## 🧱 Estrutura do Projeto
+projeto/
+├── dados/
+│ └── basecompleta.csv
+├── reclamacoes/
+│ ├── script/
+│ │ ├── coleta_dados.py
+│ │ ├── limpeza_transformacao.py
+│ │ └── analise_llm.py
+├── resultados/
+│ └── reclamacoes_final_para_bi.csv
+├── llama_env/ (ambiente virtual)
+└── README.md
 
 ---
 
 ## ✅ Etapas Concluídas
 
-### 1. Coleta de Dados
-- Fonte: [Consumidor.gov.br](https://dados.consultaspublicas.com.br/)
-- Script: `coleta_dados.py`
-- Status: ✅ Concluído
+### 1. Coleta dos Dados
+- Fonte: Portal oficial Consumidor.gov.br.
+- Download automatizado do CSV mais recente via script.
+- Armazenamento local para inspeção e testes.
 
-### 2. Armazenamento em Nuvem (AWS S3)
-- Bucket: `teste-diogo-upload`
-- Estrutura:
-  - `reclamacoes/`: dados brutos e tratados
-  - `resultados/`: análises geradas pela IA
-- Status: ✅ Concluído
+### 2. Limpeza e Transformação
+- Remoção de colunas irrelevantes.
+- Padronização textual (minúsculas, espaços).
+- Tratamento de valores ausentes.
+- Geração de CSV limpo contendo:
+  - `Descrição`, `Como comprou/contratou`, `Procurou a empresa?`, `Região`, `UF`, `Cidade`, `Sexo`, `Faixa Etária`, `Mês de abertura`, `Nome Fantasia`, `Segmento de mercado`, `Assunto`.
 
-### 3. Processamento com LLM (Ollama via Zapper)
-- Funções:
-  - Análise de sentimentos
-  - Geração de resumos
-  - Identificação de padrões
-- Script: Pipeline que lê e grava no S3
-- Arquivo gerado: `resultado_analise_incremental.csv`
-- Status: ✅ Concluído
+### 3. Processamento com IA (LLM)
+- Uso da API **Zapper.to (Ollama)** para análise de texto.
+- Aplicações:
+  - **Análise de Sentimento**
+  - **Resumo automático da reclamação**
+  - **Identificação de padrões**
+- Geração de CSV com colunas adicionais: `Sentimento`, `Resumo IA`, `Padrão Identificado`.
 
-### 4. Integração com Power BI
-- Conexão direta com o S3 (AWS)
-- Visualizações desenvolvidas:
-  - Gráfico de linha: ano x volume de reclamações
-  - Filtros por segmento de mercado
-  - Tabela com análise de sentimentos
-- Arquivo: `grafico-BI.pbix`
-- Status: ✅ Concluído
+### 4. Armazenamento em Nuvem (AWS S3)
+- Arquivo final enviado para:
+s3://teste-diogo-upload/resultados/reclamacoes_final_para_bi.csv
 
----
+- Link público habilitado para leitura via URL (usado no Power BI).
 
-## 📂 Estrutura dos Arquivos no Repositório
-
-```
-├── coleta_dados.py                   # Script de coleta da base original
-├── limpeza_transformacao.py         # Script de limpeza e pré-processamento
-├── gera_amostra.py                  # Gera amostra com subset da análise final
-├── resultado_analise_amostra.csv    # Exemplo de saída com subset
-├── resultado_analise_incremental.csv# Arquivo completo com análise da IA
-└── grafico-BI.pbix                  # Visualização no Power BI
-```
----
-
-## 🔜 Próximos Passos
-
-1. Refinar visualizações no Power BI
-2. Adicionar filtros e segmentações (região, empresa, assunto)
-3. Incluir tendência temporal e análises da IA
-4. Criar e publicar o diagrama da arquitetura da solução
-5. Tornar o dashboard público (opcional)
+### 5. Visualização em Power BI
+- Conexão direta via URL pública do CSV.
+- Visualizações criadas:
+- Volume de reclamações por **Região**, **Empresa**, **Assunto**.
+- **Tendência temporal** (mês de abertura).
+- **Satisfação** e **Índice de solução**.
+- Resultados da IA (sentimento, padrão, resumo).
 
 ---
 
-## 🎯 Objetivo
+## 📂 Tecnologias Utilizadas
 
-Construir uma solução moderna de **análise de reclamações públicas**, combinando ciência de dados, cloud computing, BI e LLMs (modelos de linguagem).
-
----
-
-## 🗂️ Tecnologias Utilizadas
-
-- **Python**
-- **AWS S3**
-- **Ollama (Zapper.to API)**
-- **Power BI**
-- **Git/GitHub**
+- **Python** (pandas, requests)
+- **AWS S3** (armazenamento na nuvem)
+- **Zapper.to / Ollama** (IA via LLMs)
+- **Power BI** (visualização de dados)
+- **Git/GitHub** (versionamento e documentação)
 
 ---
 
-## 🧠 Análises da IA
+## 📌 Como Reproduzir o Projeto
 
-A IA foi utilizada para:
-
-- Identificar o **sentimento** de cada reclamação
-- Detectar **padrões e tópicos recorrentes**
-- Gerar **resumos automáticos** para facilitar a leitura
-
----
-
-## 🧱 Arquitetura da Solução (a ser adicionada)
-
-<sub>*Diagrama explicativo será incluído futuramente neste README.*</sub>
-
----
-
-## 📌 Sobre
-
-Este projeto faz parte de um desafio prático com prazo de 14 dias, com o objetivo de construir uma pipeline de dados inteligente do início ao fim.
-
----
-
-## 📎 Contato
-
-Diogo Crelier  
-[LinkedIn](https://www.linkedin.com/) *(link opcional para portfólio ou rede)*  
-
-
+1. Clone o repositório:
+```bash
+git clone https://github.com/Crelier51/analise-reclamacoes-ia-bi.git
+cd analise-reclamacoes-ia-bi
