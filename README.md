@@ -66,15 +66,22 @@ sentimento_llm, resumo_llm, padrao_identificado
 
 - Upload do arquivo final para o bucket S3  
 - Link público habilitado para leitura (utilizado no Power BI):  
-🔗 [Acessar CSV público](#) <!-- substitua pelo link real -->
+🔗 [Acessar CSV público](https://teste-diogo-upload.s3.us-east-2.amazonaws.com/resultados/amostra_50_linhas_analise_bi.csv)
 
 ### 5. Visualização e Dashboard (Power BI)
 
-- Conexão direta ao CSV público no S3 para atualização automática  
-- Criação de gráficos interativos para:  
-  - Análise de sentimentos por região e empresa  
-  - Resumo dos principais assuntos  
-  - Identificação de padrões comuns nas reclamações  
-- Dashboard compartilhado para stakeholders
+- Conexão direta ao CSV público no S3 para atualização automática dos dados  
+- Criação de gráficos e métricas interativas para análise exploratória e apresentação executiva
 
+**Principais visualizações do dashboard:**
+
+- 📍 Volume de reclamações por região, estado e cidade  
+- 🏢 Empresas com maior número de reclamações  
+- 💬 Temas mais frequentes (assuntos)  
+- 😊 Análise de sentimentos por empresa e região  
+- 📈 Tendência temporal de reclamações por mês  
+- 🧠 Padrões recorrentes identificados por IA  
+- ✅ Índice de solução e nível de satisfação  
+
+🔗 **Acesso ao dashboard (Power BI):** [Coloque o link aqui, se for público]
 
