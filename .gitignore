@@ -1,0 +1,27 @@
+
+# Arquivos temporários do sistema
+*.log
+*.tmp
+*.bak
+
+# Arquivos Python compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambiente virtual
+venv/
+llama_env/
+
+# Arquivos do VSCode
+.vscode/
+
+# Arquivos CSV gerados (se não quiser subir os tratáveis)
+dado_tratado/*.csv
+
+# Arquivos de BI locais
+*.pbix
+
+# Arquivos do Jupyter Notebook (se usar)
+.ipynb_checkpoints/
