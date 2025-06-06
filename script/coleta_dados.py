@@ -1,34 +1,31 @@
 import requests
 import pandas as pd
 
-# URL do arquivo CSV
+# URL da base mais recente (abril/2025)
 url = 'https://dados.mj.gov.br/dataset/0182f1bf-e73d-42b1-ae8c-fa94d9ce9451/resource/8f22bdc1-3044-46ee-9dd1-4ace84da28e4/download/basecompleta2025-04.csv'
 
-# Nome do arquivo para salvar
-file_name = 'basecompleta2025-04.csv'
+# Nome do arquivo para salvar no ambiente temporário do Colab
+file_name = 'basecompleta.csv'
 
-# Baixar o arquivo
-print("Baixando arquivo...")
-response = requests.get(url)
+print("🔄 Baixando o arquivo de reclamações públicas...")
 
-# Verificar se o download foi bem-sucedido
-if response.status_code == 200:
+try:
+    response = requests.get(url)
+    response.raise_for_status()  # Lança erro se houver falha
+
     with open(file_name, 'wb') as f:
         f.write(response.content)
-    print("Arquivo baixado com sucesso!")
 
-    # Processar o arquivo CSV
+    print(f"✅ Arquivo salvo como: {file_name}")
+
+    # Carrega uma prévia para verificação
     try:
-        print("Processando arquivo CSV...")
-        # Usar o delimitador correto (ponto e vírgula)
-        data = pd.read_csv(file_name, on_bad_lines='skip', delimiter=';')
-
-        print("Arquivo CSV carregado com sucesso!")
-        
-        # Exibir as primeiras linhas do arquivo
-        print(data.head())
-
+        df = pd.read_csv(file_name, sep=';', encoding='utf-8', on_bad_lines='skip')
+        print("\n📊 Prévia dos dados:")
+        print(df.head(5))
+        print(f"\n🔢 Total de linhas: {len(df)} | Total de colunas: {len(df.columns)}")
     except Exception as e:
-        print(f"Erro ao processar o arquivo CSV: {e}")
-else:
-    print(f"Erro ao baixar o arquivo. Status code: {response.status_code}")
+        print("⚠️ Erro ao carregar CSV:", e)
+
+except requests.exceptions.RequestException as e:
+    print("❌ Erro ao fazer o download:", e)
