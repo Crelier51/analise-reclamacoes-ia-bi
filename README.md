@@ -85,3 +85,6 @@ sentimento_llm, resumo_llm, padrao_identificado
 
 🔗 **Acesso ao dashboard (Power BI):** [Coloque o link aqui, se for público]
 
+## Licença
+
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
