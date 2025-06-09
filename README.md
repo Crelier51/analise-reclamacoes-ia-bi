@@ -15,7 +15,7 @@ Extrair insights valiosos a partir de dados públicos do portal [Consumidor.gov.
 
 ---
 
-## 🖼️ Arquitetura da Solução
+## Arquitetura da Solução
 
 ![Arquitetura da Solução](imagem/imagens-arquitetura.png)
 
