@@ -1,6 +1,6 @@
 # 📊 Análise Inteligente de Reclamações com IA e BI
 
-Este é um projeto prático que propõe uma solução completa para análise de reclamações públicas, utilizando ferramentas modernas de Ciência de Dados, Inteligência Artificial (LLMs) e Business Intelligence (BI).
+Este projeto apresenta uma solução completa para análise de reclamações públicas, utilizando ferramentas modernas de Ciência de Dados, Inteligência Artificial (LLMs) e Business Intelligence (BI).
 
 ---
 
@@ -15,56 +15,58 @@ Extrair insights valiosos a partir de dados públicos do portal [Consumidor.gov.
 
 ---
 
-## Arquitetura da Solução
+## 📐 Arquitetura da Solução
 
 ![Arquitetura da Solução](imagem/imagens-arquitetura.png)
 
 ---
 
-## 🧱 Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 
-projeto/  
-├── dados/ # Arquivos de entrada brutos  
-│   └── basecompleta.csv # Base original coletada do consumidor.gov.br  
-├── reclamacoes/ # Diretório principal dos scripts  
-│   └── script/  
-│       ├── coleta_dados.py # Script para download automatizado dos dados  
-│       ├── limpeza_transformacao.py # Script para limpeza e pré-processamento  
-│       ├── analise_llm.py # Script que envia dados para análise com IA  
-│       ├── dados_tratados/ # Dados limpos e normalizados  
-│       ├── reclamacoes_bi.pbix # Dashboard Power BI (arquivo local)  
-│       ├── requirements.txt # Dependências do projeto  
-├── resultados/ # Arquivos finais processados, prontos para o BI  
-│   └── resultado_analise_incremental.csv  
-├── imagem/ # Imagem da arquitetura da solução  
-│   └── imagens-arquitetura.png  
-├── llama_env/ # Ambiente virtual Python (isolado, não versionado)  
-├── .gitignore  
-├── LICENSE  
-└── README.md # Documentação do projeto  
+```plaintext
+projeto-2/reclamacoes-ia/
+├── dados/                        # Arquivos de entrada brutos
+│   └── basecompleta.csv          # Base original coletada do consumidor.gov.br
+├── reclamacoes/                  # Diretório principal dos scripts
+│   └── script/
+│       ├── coleta_dados.py       # Script para download automatizado dos dados
+│       ├── limpeza_transformacao.py # Script para limpeza e pré-processamento
+│       ├── analise_llm.py        # Script que envia dados para análise com IA
+│       ├── dados_tratados/       # Dados limpos e normalizados
+│       ├── requirements.txt      # Dependências do projeto
+├── resultados/                   # Arquivos finais processados, prontos para o BI
+│   └── resultado_analise_incremental.csv
+├── imagem/                       # Imagens e dashboard
+│   ├── imagens-arquitetura.png   # Arquitetura da solução
+│   └── grafico-BI.pbix           # Dashboard Power BI (uso local)
+├── llama_env/                    # Ambiente virtual Python (não versionado)
+├── .gitignore
+├── LICENSE
+└── README.md                     # Documentação do projeto
 
 ---
 
 ## ✅ Etapas Concluídas
 
-### 1. Coleta dos Dados
+### 1️⃣ Coleta dos Dados
 
 - Fonte: Portal oficial [Consumidor.gov.br](https://www.consumidor.gov.br)  
-- Download automatizado do CSV mais recente via script Python  
-- Armazenamento local para inspeção e testes iniciais
+- Download automatizado via script Python  
+- Armazenamento local para inspeção e testes
 
-### 2. Limpeza e Transformação
+### 2️⃣ Limpeza e Transformação
 
 - Remoção de colunas irrelevantes  
 - Padronização textual (minúsculas, remoção de espaços extras)  
 - Tratamento de valores ausentes  
 - Normalização de nomes de colunas (sem acentos, lowercase, underscores)  
-- Garantia das colunas obrigatórias:  
-  - empresa, regiao, procurou_empresa, satisfacao, assunto, indice_solucao  
+- Garantia das colunas obrigatórias:
 
-### 3. Processamento com IA (LLM)
+  - `empresa`, `regiao`, `procurou_empresa`, `satisfacao`, `assunto`, `indice_solucao`
 
-- Integração com a API da [Zapper.to](https://zapper.to), baseada no Ollama, para análise de texto  
+### 3️⃣ Processamento com IA (LLM)
+
+- Integração com a API da [Zapper.to](https://zapper.to), baseada no Ollama  
 
 **Aplicações:**  
 - Análise de sentimento  
@@ -72,31 +74,39 @@ projeto/
 - Identificação de padrões  
 
 **Colunas geradas no CSV final:**  
-- sentimento_llm  
-- resumo_llm  
-- padrao_identificado  
+- `sentimento_llm`  
+- `resumo_llm`  
+- `padrao_identificado`  
 
-### 4. Armazenamento em Nuvem (AWS S3)
+### 4️⃣ Armazenamento em Nuvem (AWS S3)
 
-- Upload do arquivo final para o bucket S3:  
-  - `s3://teste-diogo-upload/resultados/resultado_analise_incremental.csv`  
+-- Upload do arquivo final para o bucket S3:
 
-### 5. Visualização e Dashboard (Power BI)
+  `s3://teste-diogo-upload/resultados/resultado_analise_incremental.csv`
 
-- Dashboard criado no Power BI Desktop com base no arquivo `resultado_analise_incremental.csv` armazenado no S3.  
-- O arquivo `.pbix` foi incluído no repositório e pode ser aberto localmente para exploração dos dados.
+### 5️⃣ Dashboard Power BI
 
-**Principais visualizações criadas no dashboard:**  
+- O dashboard foi criado no Power BI Desktop e está disponível para uso local no repositório.
+
+**Arquivo:** `imagem/grafico-BI.pbix`
+
+**Instruções:**
+
+- Faça o download do arquivo `.pbix`
+- Abra com o Power BI Desktop (versão gratuita)
+- Explore as visualizações interativas baseadas nos dados processados
+
+**Principais visualizações:**
 
 - 📍 Volume de reclamações por região, estado e cidade  
 - 🏢 Empresas com maior número de reclamações  
 - 💬 Temas mais frequentes (assuntos)  
 - 😊 Análise de sentimentos por empresa e região  
 - 📈 Tendência temporal de reclamações por mês  
-- 🧠 Padrões recorrentes identificados por IA  
+- 🧠 Padrões recorrentes identificados pela IA  
 - ✅ Índice de solução e nível de satisfação  
 
-> ⚠️ **Observação:** A publicação do dashboard no Power BI Service não foi concluída devido a problemas técnicos com o login da conta de estudante. O arquivo `.pbix` está disponível no repositório para avaliação local.
+> ⚠️ A publicação do dashboard no Power BI Service (nuvem) não foi possível devido a limitações técnicas. O uso local é a forma recomendada para exploração dos dados.
 
 ---
 
@@ -121,7 +131,8 @@ Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICE
 
 ## 👨‍💻 Autor
 
-**Seu Nome**  
-GitHub: [Seu GitHub](https://github.com/seuusuario)  
+**Diogo**  
+GitHub: [https://github.com/Crelier51](https://github.com/Crelier51)
 
 ---
+
