@@ -89,6 +89,7 @@ projeto-2/reclamacoes-ia/
 - O dashboard foi criado no Power BI Desktop e está disponível para uso local no repositório.
 
 **Arquivo:** `imagem/grafico-BI.pbix`
+> 🆕 Arquivo atualizado em 2025-06-09 para refletir corretamente os dados finais do pipeline de análise.
 
 **Instruções:**
 
